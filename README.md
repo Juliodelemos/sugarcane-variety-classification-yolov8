@@ -1,5 +1,3 @@
-# sugarcane-variety-classification-yolov8
-Code repository for the paper "Benchmarking sugarcane variety identification under controlled conditions"
 # Benchmarking sugarcane variety identification under controlled conditions: a deep learning classification approach
 
 [![DOI](https://img.shields.io/badge/Dataset_DOI-10.25824%2Fredu%2FS1OJFI-blue)](https://doi.org/10.25824/redu/S1OJFI)
