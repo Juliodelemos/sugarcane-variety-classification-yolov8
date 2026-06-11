@@ -41,7 +41,7 @@ To reproduce the experiments, you will need the following libraries:
 ## 📂 Repository Structure
 
 * `preprocessing.ipynb`: Script containing the OpenCV-based adaptive thresholding and contour detection workflow used to segment the sugarcane billets and remove the black background prior to training.
-* `yolov8_repeated_runs_analysis.ipynb`: The main Google Colab notebook used to compute the repeated-run statistics. It includes the YOLOv8-cls fine-tuning configuration, the 10-seed loop with Monte Carlo Cross-Validation (Random Subsampling), and the generation of the final performance metrics.
+* `training_10_seeds_ipyn.ipynb`: The main Google Colab notebook used to compute the repeated-run statistics. It includes the YOLOv8-cls fine-tuning configuration, the 10-seed loop with Monte Carlo Cross-Validation (Random Subsampling), and the generation of the final performance metrics.
 
 ## 🚀 How to Run (Reproducibility)
 
