@@ -1,11 +1,11 @@
-# Benchmarking sugarcane variety identification under controlled conditions: a deep learning classification approach
+# Sugarcane cultivar identification under controlled conditions: a deep learning classification approach
 
 [![DOI](https://img.shields.io/badge/Dataset_DOI-10.25824%2Fredu%2FS1OJFI-blue)](https://doi.org/10.25824/redu/S1OJFI)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.13.0-EE4C2C.svg)](https://pytorch.org/)
 [![Ultralytics](https://img.shields.io/badge/YOLOv8-Ultralytics-black)](https://github.com/ultralytics/ultralytics)
 
-This repository contains the official code implementation and supplementary materials for the paper **"Benchmarking sugarcane variety identification under controlled conditions: a deep learning classification approach"**, submitted to *PLOS One*.
+This repository contains the official code implementation and supplementary materials for the paper **"Sugarcane cultivar identification under controlled conditions:a deep learning classification approach"**, submitted to *PLOS One*.
 
 ## 📌 Overview
 
@@ -70,7 +70,7 @@ If you find this code or the associated dataset useful for your research, please
 
 ```bibtex
 @article{delemos2026sugarcane,
-  title={Benchmarking sugarcane variety identification under controlled conditions: a deep learning classification approach},
+  title={Sugarcane cultivar identification under controlled conditions:a deep learning classification approach},
   author={de Lemos, Julio Cesar and de Angelis, Andr{\'e} Franceschi},
   journal={PLOS One},
   year={2026},
